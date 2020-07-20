@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nolands/static/css/main.5f361e03.chunk.css",
+    "main.js": "/nolands/static/js/main.70ea6891.chunk.js",
+    "main.js.map": "/nolands/static/js/main.70ea6891.chunk.js.map",
+    "runtime-main.js": "/nolands/static/js/runtime-main.53cf5134.js",
+    "runtime-main.js.map": "/nolands/static/js/runtime-main.53cf5134.js.map",
+    "static/js/2.fa5b8589.chunk.js": "/nolands/static/js/2.fa5b8589.chunk.js",
+    "static/js/2.fa5b8589.chunk.js.map": "/nolands/static/js/2.fa5b8589.chunk.js.map",
+    "index.html": "/nolands/index.html",
+    "precache-manifest.3d06595a52f73c4b4084ef77884c52c5.js": "/nolands/precache-manifest.3d06595a52f73c4b4084ef77884c52c5.js",
+    "service-worker.js": "/nolands/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/nolands/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.fa5b8589.chunk.js.LICENSE.txt": "/nolands/static/js/2.fa5b8589.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/nolands/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53cf5134.js",
+    "static/js/2.fa5b8589.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.70ea6891.chunk.js"
+  ]
+}
