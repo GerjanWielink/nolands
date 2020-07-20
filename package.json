@@ -2,7 +2,7 @@
   "name": "nolands",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://gerjanwielink.github.io/nolands",
+  "homepage": "https://gerjanwielink.github.io/nolands",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
