@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/nolands/static/css/main.69eda509.chunk.css",
-    "main.js": "/nolands/static/js/main.dec2fe08.chunk.js",
-    "main.js.map": "/nolands/static/js/main.dec2fe08.chunk.js.map",
+    "main.js": "/nolands/static/js/main.19264dab.chunk.js",
+    "main.js.map": "/nolands/static/js/main.19264dab.chunk.js.map",
     "runtime-main.js": "/nolands/static/js/runtime-main.555afbfb.js",
     "runtime-main.js.map": "/nolands/static/js/runtime-main.555afbfb.js.map",
     "static/js/2.2ef0f5bd.chunk.js": "/nolands/static/js/2.2ef0f5bd.chunk.js",
     "static/js/2.2ef0f5bd.chunk.js.map": "/nolands/static/js/2.2ef0f5bd.chunk.js.map",
     "index.html": "/nolands/index.html",
-    "precache-manifest.a8be1b95d123b0fca2b3fdfa563362a5.js": "/nolands/precache-manifest.a8be1b95d123b0fca2b3fdfa563362a5.js",
+    "precache-manifest.2fbc6be8d11ae1f93821b6b006e5d2c5.js": "/nolands/precache-manifest.2fbc6be8d11ae1f93821b6b006e5d2c5.js",
     "service-worker.js": "/nolands/service-worker.js",
     "static/css/main.69eda509.chunk.css.map": "/nolands/static/css/main.69eda509.chunk.css.map",
     "static/js/2.2ef0f5bd.chunk.js.LICENSE.txt": "/nolands/static/js/2.2ef0f5bd.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.555afbfb.js",
     "static/js/2.2ef0f5bd.chunk.js",
     "static/css/main.69eda509.chunk.css",
-    "static/js/main.dec2fe08.chunk.js"
+    "static/js/main.19264dab.chunk.js"
   ]
 }
