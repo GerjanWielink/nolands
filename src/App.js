@@ -1,24 +1,18 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { Background, Particles, PageTitle, Schedule, ContentContainer } from "./components";
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+        <Background>
+            {/*<PageTitle>Nolands 2020 - 8/8 - Adres 20, Koekange</PageTitle>*/}
+            <ContentContainer>
+                <Schedule />
+            </ContentContainer>
+        </Background>
+        {/*<p>Adres 20, Koekange</p>*/}
+        <Particles />
     </div>
   );
 }
