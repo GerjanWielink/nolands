@@ -3,13 +3,13 @@ export const schedule = [{
   time: "12:00 - 13:00",
   vid: "mOhi4EMoj-o"
 }, {
-  name: "Chase & Status",
-  time: "13:30 - 14:30",
-  vid: "yIudwtqUxTI"
-}, {
   name: "Anderson .Paak & The Free Nationals",
-  time: "15:00 - 16:00",
+  time: "13:40 - 14:30",
   vid: "6ikV0SG8bOw"
+}, {
+  name: "Chase & Status",
+  time: "15:00 - 16:00",
+  vid: "yIudwtqUxTI"
 }, {
   name: "Radio Lima",
   time: "16:30 - 18:00",
