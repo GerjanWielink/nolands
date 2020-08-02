@@ -5,7 +5,7 @@ export const schedule = [{
 }, {
   name: "Anderson .Paak & The Free Nationals",
   time: "13:40 - 14:30",
-  vid: "6ikV0SG8bOw"
+  vid: "pCDJv4WQ_bc"
 }, {
   name: "Chase & Status",
   time: "15:00 - 16:00",
